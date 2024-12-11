@@ -46,7 +46,7 @@ To get started with the examples, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/data-cleaning-preprocessing.git
+   git clone https://github.com/dev-Sujon/Data-Cleaning-Preprocessing
    ```
 
 2. Install the required libraries using pip:
